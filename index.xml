@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Pedro Mattos</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>João Pedro Mattos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>João Pedro Mattos</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Applying for a PhD as a Latino</title>
+      <link>/post/applying-to-phd/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/post/applying-to-phd/</guid>
+      <description>&lt;h2 id=&#34;what-brought-you-here&#34;&gt;What brought you here?&lt;/h2&gt;
+&lt;p&gt;If you are here, chances are that you wanted to know how is the experience of applying to a PhD in Computer Science in the USA. Many people ask me this, in fact. And here&amp;rsquo;s the thing: &lt;em&gt;there&amp;rsquo;s a ton of amazing blog posts all over the internet about this&lt;/em&gt;. I know this because I have read a great ton of them while I was applying and they helped me &lt;strong&gt;a lot&lt;/strong&gt;.  For this reason, I never though about writing my own, since all the posts I have read are much better than the one I would write. &lt;strong&gt;However&lt;/strong&gt; (almost) none of these cover the  the point of view of Latin American applicants.&lt;/p&gt;
+&lt;p&gt;Inspired by this, here&amp;rsquo;s what I am going to do in this blog post:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I will provide a list of the resources I read during my application process. (You can find the list at the end of this post)&lt;/li&gt;
+&lt;li&gt;Some personal thoughts that might clarify how you should look at this experience if you are latino(a).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;whats-the-game-youre-playing&#34;&gt;What&amp;rsquo;s the game you&amp;rsquo;re playing?&lt;/h2&gt;
+&lt;p&gt;First, let&amp;rsquo;s put everybody in the same page here. The requisites to apply for a CS PhD program in the USA are usually 3 recommendation letters, a Statement of Purpose, your CV and transcripts. Simple, isn&amp;rsquo;t it? &lt;strong&gt;No, it&amp;rsquo;s not&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The untold story many people don&amp;rsquo;t know about is that there are &lt;em&gt;at least&lt;/em&gt; more two prerequisites: &lt;strong&gt;publications and networking&lt;/strong&gt;. And this is the &amp;ldquo;dark side of the court&amp;rdquo; that we are going to cover here.&lt;/p&gt;
+&lt;h2 id=&#34;the-dark-side-of-the-court&#34;&gt;The dark side of the court&lt;/h2&gt;
+&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
+&lt;p&gt;Even though you might come from a university in which research in CS is not well developed, or you might never had the chance to write a complete research paper during your undergrad because, well&amp;hellip; &lt;em&gt;you&amp;rsquo;re just an undergrad&lt;/em&gt;, CS programs will almost &lt;strong&gt;require&lt;/strong&gt; from you to have papers in top conferences in your field. Is this fair? Of course not. But again, this process is not about being &lt;strong&gt;fair&lt;/strong&gt;, and without this information you have a huge chance of failing in your application process. Mainly because during your undergraduate research assistant opportunities you will not be so worried about publishing, and when the time comes, you&amp;rsquo;re out of the process already.&lt;/p&gt;
+&lt;h4 id=&#34;what-can-you-do-to-change-the-game&#34;&gt;What can you do to change the game?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Be transparent about your objectives with your advisors. Say that you &lt;strong&gt;really need publications in good conferences&lt;/strong&gt; and that this is your main goal with your current research. This puts everybody and the same page and was one of the game-changers that made me publish a short-paper at ICDM, which got me into my programs.&lt;/li&gt;
+&lt;li&gt;Even though you might not be able to publish a paper in a good conference (because, let&amp;rsquo;s face it, this is hard), &lt;strong&gt;you can still aim for workshops and smaller venues&lt;/strong&gt;. These won&amp;rsquo;t have the same prestige you would get with a paper in the main track of a very important conference, but still tells the following message to your prospective PI: &amp;ldquo;&lt;strong&gt;I am very engaged in research and I can manage to execute a research project from the beginning to the end&lt;/strong&gt;&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;networking&#34;&gt;Networking&lt;/h3&gt;
+&lt;p&gt;Besides getting good research papers, you should also aim to establish &lt;strong&gt;your research network&lt;/strong&gt; starting from prospective PIs that your current advisor(s) have any kind of relationship.&lt;/p&gt;
+&lt;p&gt;Getting a new grad student into your lab is a bet: if your advisor has a good relationship with your prospective PI, a recommendation from him will have a very different weight in comparison to recommendations from other unknown professors. This is something that makes the process more &lt;strong&gt;elitist and less inclusive&lt;/strong&gt;, because it is very likely that your current advisors don&amp;rsquo;t have many of these close relationships with people from top-schools in the USA.&lt;/p&gt;
+&lt;h4 id=&#34;what-can-you-do-to-change-the-game-1&#34;&gt;What can you do to change the game?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Talk to your advisor(s) ASAP about your plans to apply to a PhD. They can give you &lt;strong&gt;valuable insights&lt;/strong&gt; about where to apply with higher chances of getting accepted. Also, they might be able to show you some hidden opportunities / contacts you did not think about at first.&lt;/li&gt;
+&lt;li&gt;Establish new connections in conferences! The conferences from your field are literally the best opportunities to expand your network with PIs from universities that are in your target. The main advantage of this approach is that you can ask him/her personally about the possibility of getting new PhD students in the next application round and also about his research. Some very famous researchers got their PhD acceptance in prestigious labs through this process of starting a relationship with their PI in a conference. Take advantage of that.&lt;/li&gt;
+&lt;li&gt;This one is quite polemic, but here it goes: &lt;em&gt;you can send an email to your PI.&lt;/em&gt; The thing about contacting your PI about PhD applications is that it can be either spectacularly efficient or a complete waste of time, depending on your approach. Why do I say that? Well, basically because if you write a very ~vague/suspicious~ email with a very little care, your PI will probably ignore you. Sometimes sending an email can be useful if you want to apply to a specific university with just a few professors that spark your interest, for example. In this case, a polite and direct email asking if the PI is going to accept PhD students in the following year can be useful, since it can make you rethink about applying to that school. But please, refrain from spamming professors with the same copy-pasted template containing your CV and generic research questions. And &lt;strong&gt;aways&lt;/strong&gt; check the professor&amp;rsquo;s website before reaching out to him/her! Most of them explicitly mention they &amp;ldquo;email policy&amp;rdquo; regarding PhD applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;big-game-changers&#34;&gt;Big Game Changers&lt;/h2&gt;
+&lt;h3 id=&#34;mentorship-opportunities&#34;&gt;Mentorship opportunities&lt;/h3&gt;
+&lt;p&gt;Mentorship was one of the most important pillars of my application. At the time, I didn&amp;rsquo;t know that there were programs espeficifically to Latin American students, so the mentorship resource I used was basically provided by friends who had just been accepted to PhD programs in the USA and Canada. Also, I really used the opportunity to talk to senior researchers / professors at the Machine Learning conferences I went to (e.g. NeurIPS). At the time, these conferences were all online, due to COVID, which is also a privilege that&amp;rsquo;s probably gone.&lt;/p&gt;
+&lt;p&gt;From the top of my head, I can remember two PhD application mentorship programs, which are &lt;a href=&#34;https://www.gobrasa.org/pr%C3%A9-universit%C3%A1rio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BRASA Pré pós-graduação&lt;/a&gt; (for Brazilian students) and &lt;a href=&#34;cientificolatino.com&#34;&gt;Cientifico Latino&lt;/a&gt; (for all Latin American students). Since the Brazilian Real is usually worth much less than USD, the BRASA program can even pay for some of your application fees and TOEFL test, in some special cases. Cientifico Latino has some amazing materials (that I also link in the final section) regarding the order and even a timeline of the application cycle to help you organize yourself. Also, the amazing &lt;a href=&#34;https://www.cientificolatino.com/_files/ugd/24b4aa_5a287a265b2544a49eee0261246d1041.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Applying to STEM Ph.D. Programs&amp;rdquo;&lt;/a&gt; guide by George Iskander provided by Cientifico Latino was one of the most important resources I used during the whole application process, so I am imensely thankful for that!&lt;/p&gt;
+&lt;h3 id=&#34;community&#34;&gt;Community&lt;/h3&gt;
+&lt;p&gt;Research communities currently gather around online around different research platforms, like Twitter or LinkedIn. Being part of these communities is important to be in touch with other peers in your field and, most important, to find opportunities.&lt;/p&gt;
+&lt;p&gt;Many researchers share valuable advice during the application cycles and you also have a chance to talk to these people and gain more information / get answers for questions from highly recognized sources. There are many very good Twitter threads about PhD applications that you can find. I read a ton of them when I was applying and got valuable advice from them!&lt;/p&gt;
+&lt;p&gt;Often professors share open positions in their labs in these online communities. This gives you the opportunity to know beforehand if the professors you are interested in have open positions (without needing to shoot emails). They also often tweet something like &amp;ldquo;if you are interested in X, Y and Z send me a DM and let&amp;rsquo;s talk&amp;rdquo;. If you get an interview and the professor sees you as a good fit, you will already have a very big advantage. To illustrate how powerful this is, let me tell you my experience: I got an interview at Harvard because of a tweet. I don&amp;rsquo;t know what else I can say to convince you to start working on your online presence.&lt;/p&gt;
+&lt;h3 id=&#34;information-gathering&#34;&gt;Information Gathering&lt;/h3&gt;
+&lt;p&gt;If you are applying to CS  /  ECE programs, I have good news for you: these academic communities are very good at compiling information. For example, how can you decide &lt;strong&gt;where to apply&lt;/strong&gt;? Or even, &lt;strong&gt;which professors of the school X you should mention in your application&lt;/strong&gt;? To help answering these questions, you should use &lt;strong&gt;&lt;a href=&#34;https://csrankings.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSRankings&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;CSRankings is a website that ranks CS and ECE labs from universities around the world using research criteria. The amazing Philip Guo has a &lt;a href=&#34;https://www.youtube.com/watch?v=hOSl3xPmHiQ&amp;amp;t=1s&amp;amp;ab_channel=PG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video about how to find good PhD programs to apply using CSRankings&lt;/a&gt; that is very important to make the best use of this tool.&lt;/p&gt;
+&lt;p&gt;Reddit is also a very good option to get some quick answers, since people have been asking the same questions over and over again for a looooooong time in some subs like &lt;a href=&#34;https://www.reddit.com/r/gradadmissions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r/gradadmissions&lt;/a&gt; or &lt;a href=&#34;https://www.reddit.com/r/GradSchool/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r/GradSchool&lt;/a&gt;. These subs can be a little anxiety inducing or even source of very conflicting opinions, so take them with a grain of salt.&lt;/p&gt;
+&lt;p&gt;Depending on your field / major / region there might be Facebook / Whatsapp groups about PhD applications. They can also be useful and you should keep an eye out, since these places can be a good source of a key component during your application to a PhD: &lt;strong&gt;motivation&lt;/strong&gt;. Having 40 people working everyday with the same goal as you can make you more motivated to complete this enormous task.&lt;/p&gt;
+&lt;h3 id=&#34;application-fees---getting-waived&#34;&gt;Application fees - getting waived&lt;/h3&gt;
+&lt;p&gt;If you are from Latin America, chances are your buying power is not very high and your local currency is not very well valued in comparison to USD. For this reason, &lt;strong&gt;every buck counts&lt;/strong&gt;. As I mentioned before, having a good mentorship program might give you access to some application sponsorship, but additionally to this, there&amp;rsquo;s a very small bit of information that not that many people share: &lt;strong&gt;you can email departments asking for application fee waivers&lt;/strong&gt;. But you have to ask early. So be quick once the application season opens! Also, some universities won&amp;rsquo;t charge any application fees if you are from Latin America, so &lt;strong&gt;pay attention when you are filling the long application forms!&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;tracking-applications&#34;&gt;Tracking applications&lt;/h3&gt;
+&lt;p&gt;So now you finished you application, submitted and&amp;hellip; you have to wait. This is the worst part, if you are an anxious person. To make you more / less anxious you can use &lt;a href=&#34;https://www.thegradcafe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The GradCafe&lt;/a&gt; , a platform in which people share their positive / negative results about the applications. I think the main point of this website is to help you to decide whether to accept an offer or wait longer for the results of other universities. If other people were already accepted a few weeks ago and your &amp;ldquo;Yes&amp;rdquo; didn&amp;rsquo;t arrive yet, then maybe you should redirect your positive energies towards other universities, or even accept the offers you received, for example.&lt;/p&gt;
+&lt;h3 id=&#34;after-youve-been-accepted&#34;&gt;After you&amp;rsquo;ve been accepted&lt;/h3&gt;
+&lt;p&gt;Oh my god, congrats! You&amp;rsquo;ve been accepted to more than one PhD program!! You deserve it! Now what?! Well, here&amp;rsquo;s the thing: you&amp;rsquo;ve been offered two different stipends in two different locations that you don&amp;rsquo;t know anyone in or anything about. &lt;strong&gt;Then, how can you take financial decisions and compare both stipends?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can use two websites: &lt;a href=&#34;https://www.phdstipends.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhD Stipends&lt;/a&gt; and &lt;a href=&#34;https://www.nerdwallet.com/cost-of-living-calculator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cost of Living Calculator&lt;/a&gt; . The first one is basically to compare your offered stipend to other universities around the country to check if the value is actually fair. The second one is to compare the cost of living &lt;strong&gt;between&lt;/strong&gt; the stipends you&amp;rsquo;ve been offered against the cost of living of that location, which helps you get a good sense of your buying power once you&amp;rsquo;re living in that city. Also, try to ask financial questions to other PhD students from universities you were accepted to.&lt;/p&gt;
+&lt;h2 id=&#34;closing-remarks&#34;&gt;Closing remarks&lt;/h2&gt;
+&lt;p&gt;Applying to a PhD in the USA or Canada can be an emotional rollercoaster.&lt;/p&gt;
+&lt;p&gt;You need to be confident, yet you are in the dark with not much information. You need to be consistent with your progress, yet you don&amp;rsquo;t know exactly what to do every day. You need to be brave, yet the future is uncertain. You need to be competitive, yet &lt;strong&gt;the game is unfair&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;But that&amp;rsquo;s why you chose to do science in the first place, right? &lt;a href=&#34;https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Not because it&amp;rsquo;s easy, but because it&amp;rsquo;s hard.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I know how you feel, and for this reason I made this blog post: to actually help people that have a similar background as me and have the same bucket of questions I did, and  hope I have accomplished this objective. Thank you for reading :)&lt;/p&gt;
+&lt;h2 id=&#34;link-list&#34;&gt;Link list&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Warning:&lt;/strong&gt; many of these links might not be working by the time you&amp;rsquo;re reading this post :)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quora.com/Should-I-contact-professors-before-applying-to-universities-for-a-PhD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Should I contact professors before applying to universities for a PhD? - Quora&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quora.com/Should-Ph-D-applicants-ask-professors-they-are-interested-in-if-they-are-accepting-any-Ph-D-students-and-should-they-market-themselves-in-such-emails&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Should Ph.D. applicants ask professors they are interested in if they are accepting any Ph.D. students, and should they market themselves in such emails? - Quora&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quora.com/What-do-I-write-in-the-first-email-to-a-professor-that-I-am-applying-to-be-his-graduate-student&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What do I write in the first email to a professor that I am applying to be his graduate student? - Quora&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quora.com/What-can-be-a-better-subject-line-when-mailing-to-a-professor-I-am-interested-to-PhD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What can be a better subject line when mailing to a professor I am interested to PhD? - Quora&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20190714151516/http://www.pgbovine.net/PhD-application-tips.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philip Guo - A Five-Minute Guide to Ph.D. Program Applications&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20190715230307/http://www.pgbovine.net/grad-school-app-tips.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philip Guo - Advice for Ph.D. Program Applications&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20191213034056/https://users.soe.ucsc.edu/~ejw/advice/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advice for Foreign Students Wishing to Pursue Graduate Study in Computer Science at UCSC&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20200121184827/https://pages.gseis.ucla.edu/faculty/agre/grad-school.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advice for Undergraduates Considering Graduate School&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20190714162053/http://www.pgbovine.net/email-tips.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philip Guo - Email Writing Tips&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20191206033646/https://www.edupass.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Guide for International Students Coming to the USA | eduPASS&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quora.com/What-does-the-admissions-committee-process-for-graduate-school-look-like-Do-you-sit-in-a-room-and-all-discuss-the-same-candidate-at-the-same-time-or-is-it-more-of-an-individual-process-with-opinions-aggregated-at-the-end/answer/James-Leland-Harp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James Leland Harp&amp;rsquo;s answer to What does the admissions committee process for graduate school look like? Do you sit in a room and all discuss the same candidate at the same time, or is it more of an individual process with opinions aggregated at the end? - Quora&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quora.com/q/myadmissionsposts/Knowing-what-you-want-to-do-is-better-than-not-knowing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knowing what you want to do is better than not knowing. - My admissions posts - Quora&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quora.com/q/myadmissionsposts/Statement-of-Purpose-the-Human-Touch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statement of Purpose, the Human Touch - My admissions posts - Quora&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quora.com/q/myadmissionsposts/How-to-determine-backup-universities-the-mythical-shortlist&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to determine backup universities, the mythical shortlist - My admissions posts - Quora&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.prepscholar.com/gre/blog/when-to-take-the-gre/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Real Answer: When to Take the GRE • PrepScholar GRE&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://csrankings.org/#/index?all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSRankings: Computer Science Rankings&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pgbovine.net/PG-Vlog-203-applying-to-CS-PhD-programs.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philip Guo - PG Vlog #203 - finding computer science Ph.D. programs to apply to (csrankings.org can help)&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pgbovine.net/PhD-application-tips.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philip Guo - A Five-Minute Guide to Ph.D. Program Applications&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://csrankings.org/advice.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSRankings: Advice for Applying to Grad School in Computer Science&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.quora.com/Which-are-the-best-schools-for-studying-natural-language-processing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Which are the best schools for studying natural language processing? - Quora&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.ubc.ca/~rap/crossroads.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choosing a Ph.D. program in Computer Science&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://archive2.cra.org/uploads/documents/resources/student/grad-guide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grad-guide&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper.dvi&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.cs.utep.edu/nigel/estimator/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS Graduate Acceptance Estimator&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/#rejected&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HOWTO: Apply for and get into grad school in science, engineering, mathematics and computer science: Tip, tricks, hints and mistakes&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-recommendation-letter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Asking for a letter of recommendation&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cs.brown.edu/~sk/Memos/Grad-School-Recos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shriram Krishnamurthi: Advice to Graduate School Recommendation Letter Writers&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cs.brown.edu/~sk/Memos/Funding-CS-Grad-School/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shriram Krishnamurthi: CS Graduate School Funding&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to pick a grad school for a PhD in Computer Science&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-email/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to send and reply to email&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pages.gseis.ucla.edu/faculty/agre/grad-school.html#:~:text=This%20is%20rarely%20the%20case,takes%20five%20to%20eight%20years.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advice for Undergraduates Considering Graduate School&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.prepscholar.com/gre/blog/when-to-apply-for-grad-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;When to Apply for Grad School: 4 Key Considerations • PrepScholar GRE&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pg.ucsd.edu/PG-Vlog-203-applying-to-CS-PhD-programs.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philip Guo - PG Vlog #203 - finding computer science Ph.D. programs to apply to (csrankings.org can help)&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Perspectives on Applying to NLP PhD Programs&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reflecting on CS Graduate Admissions&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://yonatanbisk.com/emailing_professors.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Note about Emailing Professors&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nlp.stanford.edu//~johnhew//undergrad-researchers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Undergrad to PhD, or not - advice for undergrads interested in research · John Hewitt&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application // Blog // Andy Pavlo - Carnegie Mellon University&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/great-research/how-to-apply-to-graduate-school-in-computer-science-868c745c2b0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Apply to Graduate School in Computer Science | by Nick Feamster | Great Research | Nov, 2020 | Medium&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.inference.vc/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ferenc Huszár&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://maria-antoniak.github.io/2020/11/27/phd-applications.html?s=09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maria Antoniak&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Science Conference Rankings&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jackietseng.github.io/conference_call_for_paper/conferences.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020-2021 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Araujo_Renan/status/1365057352735588355&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renan Araujo 🇧🇷🏴💉 VACINA JA no Twitter: &amp;ldquo;COMO APLICAR PARA DOUTORADO/PHD NO EXTERIOR: A Thread 🧶&amp;rdquo; / Twitter&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cientificolatino.com/grad-school-guide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Applying to Grad School | Científico Latino&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://uvasrg.github.io/prospective/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;| Security Research Group&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://transientneha.blogspot.com/2015/02/what-to-ask-when-applying-to-grad.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neha Narula: What to Ask When You&amp;rsquo;re Applying to Grad School&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HOWTO: Apply for and get into grad school in science, engineering, mathematics and computer science: Tip, tricks, hints and mistakes&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://b83bf412-fbd3-4487-852d-9a66499bab1a.filesusr.com/ugd/24b4aa_5a287a265b2544a49eee0261246d1041.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24b4aa_5a287a265b2544a49eee0261246d1041.pdf&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://b83bf412-fbd3-4487-852d-9a66499bab1a.filesusr.com/ugd/24b4aa_99b2f5d6a286418c901360641ad17e85.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Word - Timeline_5-20-20.docx&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.virginia.edu/~robins/YouAndYourResearch.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You and Your Research&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19782018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to choose a good scientific problem - PubMed&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhD Statement of Purpose&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ph.D. Applications: FAQ - Documentos Google&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.darpa.mil/work-with-us/heilmeier-catechism&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Heilmeier Catechism&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://maxwellforbes.com/posts/every-phd-is-different&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Every PhD Is Different&amp;rdquo; - Maxwell Forbes&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/426389a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Four golden lessons | Nature&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Rn1w4MRHIhc&amp;amp;t=10s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Have a Bad Career | David Patterson | Talks at Google - YouTube&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VK51E3gHENc&amp;amp;t=3417s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Write a Great Research Paper - YouTube&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mobile.twitter.com/adjiboussodieng/status/1459189705157791748?t=jSBy5uiE7_fjkLyGaJ6AVA&amp;amp;s=19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bousso Baali no Twitter: &amp;ldquo;I read my old statement of purpose for my PhD applications and I want to go to Mars and stay there #embarrassing. Here is how I would structure my SOP if I had to apply to a PhD today 🧵[Thread]👇&amp;rdquo; / Twitter&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/jbhuang0604/status/1438151446638252035?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(1) Jia-Bin Huang no Twitter: &amp;ldquo;&lt;em&gt;How to prepare your Curriculum Vitae?&lt;/em&gt; Applying for internships, PhD programs, or jobs? Polish your Curriculum Vitae is the very first step! https://t.co/MeJtBgEgoA&amp;rdquo; / Twitter&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Get-Advisor.pdf&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pg.ucsd.edu/early-stage-PhD-advice.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philip Guo - Advice for early-stage Ph.D. students&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://evbio.uchicago.edu/sites/default/files/client-wysiwyg-uploads/BSD%20Student%20Mentor%20Guide.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Word - 20190116_StudentMentorGuide.docx&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pg.ucsd.edu/PhD-application-tips.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Philip Guo - A Five-Minute Guide to Ph.D. Program Applications&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate School Personal Statement : EECS Communication Lab&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=z6TkkdlRWcU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demystifying ML PhD Admissions to US Universities - YouTube&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rrubenza.github.io/post/grad_questions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Questions to Ask as a Prospective Graduate Student | Ryan Rubenzahl&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://karpathy.github.io/2016/09/07/phd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Survival Guide to a PhD&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DataTalks - João Pedro Mattos (Portuguese)</title>
+      <link>/talk/datatalks-joao-pedro-mattos-portuguese/</link>
+      <pubDate>Wed, 18 May 2022 15:00:00 +0000</pubDate>
+      <guid>/talk/datatalks-joao-pedro-mattos-portuguese/</guid>
+      <description>&lt;center&gt;
+&lt;iframe  width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/BAdJ4y0uGCM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Graph Attention Networks for Event Representation Learning</title>
+      <link>/publication/mattos-2021-semi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mattos-2021-semi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart toys and children&#39;s privacy: usable privacy policy insights from a card sorting experiment</title>
+      <link>/publication/de-2019-smart/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2019-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
