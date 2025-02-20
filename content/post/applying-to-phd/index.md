@@ -155,7 +155,7 @@ You can use two websites: [PhD Stipends](https://www.phdstipends.com/) and [Cost
 
 Applying to a PhD in the USA or Canada can be an emotional rollercoaster. 
 
-You need to be confident, yet you are in the dark with not much information. You need to have consistent progress, yet you don't know exactly what to do every day. You need to be brave, yet the future is uncertain. You need to be competitive, yet **the game is unfair**. 
+You need to be confident, yet you are in the dark with not much information. You need to be consistent with your progress, yet you don't know exactly what to do every day. You need to be brave, yet the future is uncertain. You need to be competitive, yet **the game is unfair**. 
 
 But that's why you chose to do science in the first place, right? [Not because it's easy, but because it's hard.](https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon)
 
